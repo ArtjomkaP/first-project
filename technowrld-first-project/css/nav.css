@@ -1,0 +1,26 @@
+.breadcrumbs {
+  max-width: 1200px;
+  margin: 30px auto;
+}
+
+.breadcrumbs ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.breadcrumbs li {
+  display: inline;
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.breadcrumbs li a {
+  text-decoration: none;
+  color: rgb(73, 73, 73);
+}
+
+.breadcrumbs li a:hover {
+  color: rgb(32, 99, 206);
+}
